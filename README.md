@@ -3,4 +3,4 @@ This project focuses on predicting laptop prices using machine learning techniqu
 
 The model predicts laptop prices based on key features: Processor_Speed, RAM_Size, and Storage_Capacity. A Streamlit web app was developed to provide real-time price predictions, and joblib was used to serialize the trained model for deployment.
 
-Tools: Python, Jupyter, Pandas, Matplotlib, Scikit-learn, Streamlit, Joblib, Numby
+Tools: Python, Jupyter, Pandas, Matplotlib, Scikit-learn, Streamlit, Joblib, Numpy
