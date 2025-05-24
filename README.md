@@ -34,7 +34,12 @@ Model Development & Tuning:
 
 Evaluation: The tuned model's performance was assessed using the Mean Absolute Error (MAE) metric, which measures the average difference between predicted prices and actual prices on the test set.
 
-Model Deployment (via Streamlit):
-The trained and tuned GridSearchCV model (containing the best RandomForestRegressor) was serialized and saved using joblib (as rf_model.pkl).
+Model Deployment (via Streamlit App):
+
+. The trained and tuned GridSearchCV model (containing the best RandomForestRegressor) was serialized and saved using joblib (as 
+  rf_model.pkl).
+
+. a user-friendly web application was developed using Streamlit, allowing users to input laptop specifications and receive real-time 
+  price predictions from the loaded model.
 
 Tools: Python, Jupyter, Pandas, Matplotlib, Scikit-learn, Streamlit, Joblib, Numpy.
