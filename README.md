@@ -1,4 +1,5 @@
 Project Goal:
+
 This project focuses on predicting laptop prices using machine learning techniques. I performed exploratory data analysis and visualizations in a Jupyter Notebook, followed by building a regression model using RandomForestRegressor from sklearn. ensemble. Hyperparameter tuning was done via GridSearchCV to optimize model performance.
 
 Problem Statement:
@@ -24,11 +25,12 @@ Feature Selection: Key features deemed most influential for price prediction ('P
 
 Model Development & Tuning:
 
-. A RandomForestRegressor from the scikit-learn library was chosen as the predictive model due to its robustness and ability to handle non-linear relationships.
+. RandomForestRegressor from the scikit-learn library was chosen as the predictive model due to its robustness and ability to handle non-linear relationships.
 
 . The dataset was split into training and testing sets to evaluate model performance on unseen data.
 
-. GridSearchCV was employed for hyperparameter tuning, systematically searching for the optimal settings for max_depth, max_features, and n_estimators to enhance the model's accuracy.
+. GridSearchCV was employed for hyperparameter tuning, systematically searching for the optimal settings for max_depth, max_features, 
+  and n_estimators to enhance the model's accuracy.
 
 Evaluation: The tuned model's performance was assessed using the Mean Absolute Error (MAE) metric, which measures the average difference between predicted prices and actual prices on the test set.
 
