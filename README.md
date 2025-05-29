@@ -1,6 +1,6 @@
 # Predicting-Laptop-Prices
 
-##Project Goal:
+#Project Goal:
 
 This project focuses on predicting laptop prices using machine learning techniques. I performed exploratory data analysis and visualizations in a Jupyter Notebook, followed by building a regression model using RandomForestRegressor from sklearn. ensemble. Hyperparameter tuning was done via GridSearchCV to optimize model performance.
 
