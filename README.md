@@ -4,6 +4,8 @@ Project Goal:
 
 This project focuses on predicting laptop prices using machine learning techniques. I performed exploratory data analysis and visualizations in a Jupyter Notebook, followed by building a regression model using RandomForestRegressor from sklearn. ensemble. Hyperparameter tuning was done via GridSearchCV to optimize model performance.
 
+The Dataset: https://www.kaggle.com/datasets/mrsimple07/laptoppriceprediction
+
 Problem Statement:
 
 Determining a fair price for a laptop can be challenging for both buyers and sellers due to the wide variety of brands, configurations, and rapidly changing market dynamics. Manually assessing these factors to estimate a price is often subjective and time-consuming. This project aims to solve this by providing an objective approach to laptop price estimation.
