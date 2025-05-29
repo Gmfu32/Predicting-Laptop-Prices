@@ -1,4 +1,6 @@
-Project Goal:
+# Predicting-Laptop-Prices
+
+##Project Goal:
 
 This project focuses on predicting laptop prices using machine learning techniques. I performed exploratory data analysis and visualizations in a Jupyter Notebook, followed by building a regression model using RandomForestRegressor from sklearn. ensemble. Hyperparameter tuning was done via GridSearchCV to optimize model performance.
 
@@ -32,7 +34,7 @@ Model Development & Tuning:
 . GridSearchCV was employed for hyperparameter tuning, systematically searching for the optimal settings for max_depth, max_features, 
   and n_estimators to enhance the model's accuracy.
 
-Evaluation: The tuned model's performance was assessed using the Mean Absolute Error (MAE) metric, which measures the average difference between predicted prices and actual prices on the test set.
+Evaluation: The tuned model performance was assessed using the Mean Absolute Error (MAE) metric, which measures the average difference between predicted prices and actual prices on the test set.
 
 Model Deployment (via Streamlit App):
 
