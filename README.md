@@ -23,7 +23,7 @@ Exploratory Data Analysis (EDA): The dataset was thoroughly analyzed to understa
 
 . Statistical summaries and correlation analysis to identify important features.
 
-. Visualizations (bar charts, pie charts) to better understand data distributions and trends (e.g., average price by brand).
+. Visualizations (bar charts, pie charts) to better understand data distributions and trends (average price by brand).
 
 Feature Selection: Key features deemed most influential for price prediction ('Processor_Speed', 'RAM_Size', 'Storage_Capacity') were selected as inputs for the model.
 
